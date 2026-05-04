@@ -1,0 +1,26 @@
+{
+    "accueil": {
+        "titre_menu": "Accueil",
+        "titre_page": "Bienvenue \u00e0 la Mairie",
+        "info_demande": "Texte de l'accueil...",
+        "liste_communes": "...",
+        "alerte_titre": "Information",
+        "alerte_texte": "..."
+    },
+    "etat-civil": {
+        "titre_menu": "\u00c9tat Civil",
+        "titre_page": "Vos services d'\u00e9tat Civil",
+        "info_demande": "Dans le cadre de la modernisation...",
+        "liste_communes": "Lanta, Balma...",
+        "alerte_titre": "Attention RDV",
+        "alerte_texte": "Le d\u00e9p\u00f4t se fait uniquement sur RDV."
+    },
+    "urbanisme": {
+        "titre_menu": "Urbanisme",
+        "titre_page": "Service Urbanisme et Travaux",
+        "info_demande": "Consultez le PLU ici...",
+        "liste_communes": "Secteur A, Secteur B",
+        "alerte_titre": "D\u00e9lai",
+        "alerte_texte": "Les d\u00e9lais d'instruction sont de 2 mois."
+    }
+}
